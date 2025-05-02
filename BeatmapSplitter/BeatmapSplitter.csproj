@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Coosu.Beatmap" Version="2.3.40" />
+      <PackageReference Include="Coosu.Shared" Version="2.3.40" />
+      <PackageReference Include="Coosu.Storyboard" Version="2.3.40" />
+    </ItemGroup>
+
+</Project>
